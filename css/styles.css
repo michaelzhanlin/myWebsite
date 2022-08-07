@@ -1,0 +1,65 @@
+body{
+    background-color: aliceblue;
+    /* all 4 sides are set to 0px */
+    margin: 0;
+    /* centering elements */
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 562.5%;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+/* creating containers and their sizes */
+/* .middle-container{
+
+}
+.bottom-container{
+
+} */
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.profilepic{
+    height: 150px;
+    width: 150px;
+}
+.computerpic{
+    height: 150px;
+    width: 150px;
+}
+.controllerpic{
+    height: 150px;
+    width: 150px;
+}
+#S1{
+    font-size: 10px;
+}
+#S2{
+    font-size: 10px;
+}
